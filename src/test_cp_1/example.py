@@ -2,8 +2,8 @@
 
 
 def f(x: int) -> int:
-    """ A simple function."""
-    return x+1
+    """A simple function."""
+    return x + 1
 
 
 class Example:
