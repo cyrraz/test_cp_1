@@ -9,6 +9,8 @@
 
 [![GitHub Discussion][github-discussions-badge]][github-discussions-link]
 
+[![Coverage][coverage-badge]][coverage-link]
+
 <!-- prettier-ignore-start -->
 [actions-badge]:            https://github.com/cyrraz/test_cp_1/workflows/CI/badge.svg
 [actions-link]:             https://github.com/cyrraz/test_cp_1/actions
@@ -21,5 +23,8 @@
 [pypi-version]:             https://img.shields.io/pypi/v/test_cp_1
 [rtd-badge]:                https://readthedocs.org/projects/test_cp_1/badge/?version=latest
 [rtd-link]:                 https://test_cp_1.readthedocs.io/en/latest/?badge=latest
+[coverage-badge]:           https://codecov.io/gh/cyrraz/test_cp_1/branch/main/graph/badge.svg
+[coverage-link]:            https://codecov.io/gh/cyrraz/test_cp_1
+
 
 <!-- prettier-ignore-end -->
