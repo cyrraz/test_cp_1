@@ -1,6 +1,11 @@
 """Behold, module level docstring."""
 
 
+def f(x: int) -> int:
+    """ A simple function."""
+    return x+1
+
+
 class Example:
     """This class exists to show off autodocstring generation."""
 
